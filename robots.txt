@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://roblox-fps-unlocker.herokuapp.com/host-https-www.techspunk.com/sitemap_index.xml
+Sitemap: https://roblox-fps-unlocker.herokuapp.com/sitemap/sitemap.xml
